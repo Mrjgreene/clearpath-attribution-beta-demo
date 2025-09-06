@@ -1,0 +1,1 @@
+// Demo placeholder for index.jsx
