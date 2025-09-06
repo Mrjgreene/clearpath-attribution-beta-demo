@@ -1,1 +1,10 @@
-// Demo placeholder for package.json
+{
+  "name": "clearpath-attribution-beta-demo",
+  "version": "1.0.0",
+  "description": "Demo ClearPath Attribution Beta",
+  "main": "frontend/index.jsx",
+  "scripts": {
+    "start": "node frontend/index.jsx"
+  },
+  "dependencies": {}
+}
